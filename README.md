@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/suhan272/leetcode/tree/master/0202-happy-number) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/suhan272/leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
