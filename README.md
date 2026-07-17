@@ -20,4 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suhan272/leetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/suhan272/leetcode/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/suhan272/leetcode/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/suhan272/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
