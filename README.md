@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/suhan272/leetcode/tree/master/0001-two-sum) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/suhan272/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/suhan272/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/suhan272/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
