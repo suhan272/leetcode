@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/suhan272/leetcode/tree/master/0001-two-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suhan272/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/suhan272/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/suhan272/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/suhan272/leetcode/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/suhan272/leetcode/tree/master/0584-find-customer-referee) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/suhan272/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
