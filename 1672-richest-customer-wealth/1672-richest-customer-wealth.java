@@ -6,9 +6,7 @@ class Solution {
             for(int c=0;c<accounts[r].length;c++){
                sum+=accounts[r][c];
             }
-            if(sum>max){
-                max=sum;
-            }
+          max=Math.max(sum,max);
         } return max;
     }
 }
