@@ -50,6 +50,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/suhan272/leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/suhan272/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/suhan272/leetcode/tree/master/0704-binary-search) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/suhan272/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
