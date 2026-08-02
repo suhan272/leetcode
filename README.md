@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/suhan272/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/suhan272/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/suhan272/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/suhan272/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/suhan272/leetcode/tree/master/0162-find-peak-element) |
 | [0560-subarray-sum-equals-k](https://github.com/suhan272/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/suhan272/leetcode/tree/master/0704-binary-search) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suhan272/leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/suhan272/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/suhan272/leetcode/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/suhan272/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/suhan272/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/suhan272/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
