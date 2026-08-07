@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suhan272/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/suhan272/leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/suhan272/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/suhan272/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/suhan272/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/suhan272/leetcode/tree/master/0011-container-with-most-water) |
 | [0202-happy-number](https://github.com/suhan272/leetcode/tree/master/0202-happy-number) |
 | [0821-shortest-distance-to-a-character](https://github.com/suhan272/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 ## Database
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/suhan272/leetcode/tree/master/0682-baseball-game) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/suhan272/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
