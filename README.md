@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/suhan272/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/suhan272/leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/suhan272/leetcode/tree/master/0709-to-lower-case) |
 | [0821-shortest-distance-to-a-character](https://github.com/suhan272/leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/suhan272/leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/suhan272/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/suhan272/leetcode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/suhan272/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/suhan272/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/suhan272/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/suhan272/leetcode/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/suhan272/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/suhan272/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
