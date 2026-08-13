@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/suhan272/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/suhan272/leetcode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/suhan272/leetcode/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/suhan272/leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/suhan272/leetcode/tree/master/0709-to-lower-case) |
 | [0821-shortest-distance-to-a-character](https://github.com/suhan272/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/suhan272/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/suhan272/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0500-keyboard-row](https://github.com/suhan272/leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/suhan272/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/suhan272/leetcode/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/suhan272/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/suhan272/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/suhan272/leetcode/tree/master/0015-3sum) |
 | [0202-happy-number](https://github.com/suhan272/leetcode/tree/master/0202-happy-number) |
+| [0567-permutation-in-string](https://github.com/suhan272/leetcode/tree/master/0567-permutation-in-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/suhan272/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 ## Database
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/suhan272/leetcode/tree/master/0567-permutation-in-string) |
 | [1652-defuse-the-bomb](https://github.com/suhan272/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/suhan272/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
