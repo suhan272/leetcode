@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/suhan272/leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/suhan272/leetcode/tree/master/0709-to-lower-case) |
 | [0821-shortest-distance-to-a-character](https://github.com/suhan272/leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suhan272/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/suhan272/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/suhan272/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/suhan272/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/suhan272/leetcode/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suhan272/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
 |  |
 | ------- |
