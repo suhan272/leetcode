@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/suhan272/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/suhan272/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suhan272/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/suhan272/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suhan272/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/suhan272/leetcode/tree/master/2413-smallest-even-multiple) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/suhan272/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
