@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/suhan272/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/suhan272/leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/suhan272/leetcode/tree/master/0728-self-dividing-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/suhan272/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suhan272/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suhan272/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/suhan272/leetcode/tree/master/2413-smallest-even-multiple) |
