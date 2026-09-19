@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/suhan272/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suhan272/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/suhan272/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/suhan272/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 ## String
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/suhan272/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suhan272/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/suhan272/leetcode/tree/master/2413-smallest-even-multiple) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/suhan272/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/suhan272/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
