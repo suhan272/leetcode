@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/suhan272/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/suhan272/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/suhan272/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3516-find-closest-person](https://github.com/suhan272/leetcode/tree/master/3516-find-closest-person) |
 ## Two Pointers
 |  |
 | ------- |
