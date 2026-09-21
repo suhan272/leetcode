@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/suhan272/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/suhan272/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/suhan272/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1550-three-consecutive-odds](https://github.com/suhan272/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1629-slowest-key](https://github.com/suhan272/leetcode/tree/master/1629-slowest-key) |
 | [1652-defuse-the-bomb](https://github.com/suhan272/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/suhan272/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
