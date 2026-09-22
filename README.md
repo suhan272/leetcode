@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/suhan272/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suhan272/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/suhan272/leetcode/tree/master/0867-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/suhan272/leetcode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/suhan272/leetcode/tree/master/0932-beautiful-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/suhan272/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suhan272/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -172,21 +173,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/suhan272/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/suhan272/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/suhan272/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/suhan272/leetcode/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/suhan272/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suhan272/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/suhan272/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/suhan272/leetcode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/suhan272/leetcode/tree/master/0932-beautiful-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/suhan272/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/suhan272/leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/suhan272/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/suhan272/leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -259,4 +264,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suhan272/leetcode/tree/master/0169-majority-element) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/suhan272/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/suhan272/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/suhan272/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
