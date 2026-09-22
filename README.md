@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/suhan272/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suhan272/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/suhan272/leetcode/tree/master/0867-transpose-matrix) |
+| [0932-beautiful-array](https://github.com/suhan272/leetcode/tree/master/0932-beautiful-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/suhan272/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suhan272/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/suhan272/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/suhan272/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/suhan272/leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/suhan272/leetcode/tree/master/0728-self-dividing-numbers) |
+| [0932-beautiful-array](https://github.com/suhan272/leetcode/tree/master/0932-beautiful-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/suhan272/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suhan272/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/suhan272/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/suhan272/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0932-beautiful-array](https://github.com/suhan272/leetcode/tree/master/0932-beautiful-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
