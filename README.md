@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/suhan272/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/suhan272/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/suhan272/leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/suhan272/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/suhan272/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/suhan272/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0500-keyboard-row](https://github.com/suhan272/leetcode/tree/master/0500-keyboard-row) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/suhan272/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/suhan272/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/suhan272/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/suhan272/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/suhan272/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/suhan272/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/suhan272/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -167,12 +169,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/suhan272/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/suhan272/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/suhan272/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/suhan272/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/suhan272/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/suhan272/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/suhan272/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/suhan272/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/suhan272/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0932-beautiful-array](https://github.com/suhan272/leetcode/tree/master/0932-beautiful-array) |
 ## Heap (Priority Queue)
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/suhan272/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/suhan272/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/suhan272/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Quickselect
@@ -250,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/suhan272/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/suhan272/leetcode/tree/master/0641-design-circular-deque) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suhan272/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
