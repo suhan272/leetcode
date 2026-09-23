@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/suhan272/leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/suhan272/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/suhan272/leetcode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/suhan272/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/suhan272/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/suhan272/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/suhan272/leetcode/tree/master/0088-merge-sorted-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/suhan272/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/suhan272/leetcode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/suhan272/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/suhan272/leetcode/tree/master/0412-fizz-buzz) |
