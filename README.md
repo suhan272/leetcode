@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/suhan272/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/suhan272/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/suhan272/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/suhan272/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/suhan272/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/suhan272/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/suhan272/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/suhan272/leetcode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/suhan272/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/suhan272/leetcode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/suhan272/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/suhan272/leetcode/tree/master/0412-fizz-buzz) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/suhan272/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/suhan272/leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/suhan272/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/suhan272/leetcode/tree/master/0844-backspace-string-compare) |
