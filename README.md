@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/suhan272/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suhan272/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/suhan272/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1544-make-the-string-great](https://github.com/suhan272/leetcode/tree/master/1544-make-the-string-great) |
 | [1629-slowest-key](https://github.com/suhan272/leetcode/tree/master/1629-slowest-key) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/suhan272/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/suhan272/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/suhan272/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/suhan272/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suhan272/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/suhan272/leetcode/tree/master/1544-make-the-string-great) |
 ## Greedy
 |  |
 | ------- |
