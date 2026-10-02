@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/suhan272/leetcode/tree/master/0932-beautiful-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/suhan272/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suhan272/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/suhan272/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1389-create-target-array-in-the-given-order](https://github.com/suhan272/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/suhan272/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/suhan272/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
