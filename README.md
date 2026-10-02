@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/suhan272/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/suhan272/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/suhan272/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/suhan272/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/suhan272/leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/suhan272/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/suhan272/leetcode/tree/master/0622-design-circular-queue) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/suhan272/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/suhan272/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/suhan272/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0496-next-greater-element-i](https://github.com/suhan272/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/suhan272/leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/suhan272/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/suhan272/leetcode/tree/master/0567-permutation-in-string) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suhan272/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/suhan272/leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/suhan272/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/suhan272/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/suhan272/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suhan272/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -319,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/suhan272/leetcode/tree/master/0338-counting-bits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/suhan272/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
