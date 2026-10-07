@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/suhan272/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/suhan272/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/suhan272/leetcode/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/suhan272/leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suhan272/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suhan272/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/suhan272/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/suhan272/leetcode/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/suhan272/leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/suhan272/leetcode/tree/master/0641-design-circular-deque) |
+| [0901-online-stock-span](https://github.com/suhan272/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/suhan272/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Number Theory
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/suhan272/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/suhan272/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Linked List
 |  |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/suhan272/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suhan272/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/suhan272/leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/suhan272/leetcode/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/suhan272/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
