@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/suhan272/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/suhan272/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/suhan272/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/suhan272/leetcode/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/suhan272/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/suhan272/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/suhan272/leetcode/tree/master/0500-keyboard-row) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/suhan272/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/suhan272/leetcode/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/suhan272/leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/suhan272/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/suhan272/leetcode/tree/master/0342-power-of-four) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/suhan272/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
