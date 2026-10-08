@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/suhan272/leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suhan272/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/suhan272/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/suhan272/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/suhan272/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/suhan272/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/suhan272/leetcode/tree/master/0412-fizz-buzz) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/suhan272/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/suhan272/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/suhan272/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/suhan272/leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/suhan272/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/suhan272/leetcode/tree/master/0342-power-of-four) |
@@ -363,5 +365,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/suhan272/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/suhan272/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
