@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/suhan272/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suhan272/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/suhan272/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/suhan272/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/suhan272/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 ## String
 |  |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/suhan272/leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/suhan272/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/suhan272/leetcode/tree/master/0342-power-of-four) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/suhan272/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Monotonic Stack
 |  |
 | ------- |
