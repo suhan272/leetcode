@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/suhan272/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/suhan272/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/suhan272/leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/suhan272/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/suhan272/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0912-sort-an-array](https://github.com/suhan272/leetcode/tree/master/0912-sort-an-array) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/suhan272/leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/suhan272/leetcode/tree/master/0338-counting-bits) |
 ## Monotonic Stack
 |  |
