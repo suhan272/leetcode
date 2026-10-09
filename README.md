@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/suhan272/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/suhan272/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/suhan272/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/suhan272/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/suhan272/leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suhan272/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/suhan272/leetcode/tree/master/0162-find-peak-element) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/suhan272/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/suhan272/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/suhan272/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/suhan272/leetcode/tree/master/0231-power-of-two) |
